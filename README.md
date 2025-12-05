@@ -87,5 +87,4 @@
     <p>Last updated: December 2025</p>
   </footer>
 
-</body>
-</html>
+
