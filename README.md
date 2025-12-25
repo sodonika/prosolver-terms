@@ -80,7 +80,7 @@
   <h2>11. Contact Information</h2>
   <p>
     For questions about these Terms, contact us at:
-    <a href="mailto:sodonikamobile@gmail.com">sodonikamobile@gmail.com</a>
+    <a href="mailto:finalplaystudio@gmail.com">finalplaystudio@gmail.com</a>
   </p>
 
   <footer>
